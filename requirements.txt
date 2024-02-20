@@ -1,0 +1,9 @@
+selenium
+pyotp
+python-dateutil
+browserstack-sdk
+requests
+sentry-sdk
+beautifulsoup4
+google-api-python-client
+nng_sdk @ git+https://github.com/thealonas/nng-sdk@master

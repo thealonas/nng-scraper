@@ -1,0 +1,13 @@
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Chrome
+    browserVersion: latest
+parallelsPerPlatform: 1
+browserstackLocal: false
+timezone: Riga
+buildIdentifier: '#${BUILD_NUMBER}'
+projectName: nng scraper
+debug: false
+networkLogs: false
+consoleLogs: disable
